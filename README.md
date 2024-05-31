@@ -12,4 +12,4 @@ Learning React for the first time
 
 ## Demo
 
-Click [here](https://bernardoyewole.github.io/react-component-app/) to check it out.
+Click [here](https://bernardoyewole.github.io/react-components-app/) to check it out.
