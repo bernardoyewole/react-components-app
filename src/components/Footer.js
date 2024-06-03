@@ -5,10 +5,10 @@ function Footer() {
         <footer>
             <nav className='container'>
                 <ul>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Community</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Help</a></li>
+                    <li><a>About</a></li>
+                    <li><a>Community</a></li>
+                    <li><a>Blog</a></li>
+                    <li><a>Help</a></li>
                 </ul>
                 <p>Bernard Oyewole &copy; 2024</p>
             </nav>
